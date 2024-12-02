@@ -1,0 +1,7 @@
+D:\github\lab-5\LAB5-2\LAB5-2\bin\Debug\LAB5-2.exe.config
+D:\github\lab-5\LAB5-2\LAB5-2\bin\Debug\LAB5-2.exe
+D:\github\lab-5\LAB5-2\LAB5-2\bin\Debug\LAB5-2.pdb
+D:\github\lab-5\LAB5-2\LAB5-2\obj\Debug\LAB5-2.csproj.AssemblyReference.cache
+D:\github\lab-5\LAB5-2\LAB5-2\obj\Debug\LAB5-2.csproj.CoreCompileInputs.cache
+D:\github\lab-5\LAB5-2\LAB5-2\obj\Debug\LAB5-2.exe
+D:\github\lab-5\LAB5-2\LAB5-2\obj\Debug\LAB5-2.pdb
